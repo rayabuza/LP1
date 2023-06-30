@@ -2,7 +2,7 @@
 Este código implementa uma solução para o **problema da mochila (knapsack problem)** utilizando a abordagem de programação dinâmica. O problema da mochila consiste em determinar **a combinação de itens de maior valor que pode ser colocada em uma mochila, considerando que cada item possui um peso e um valor associado, e a mochila possui uma capacidade máxima**.
 
 # Estrutura de Dados
-##O código utiliza a seguinte estrutura de dados para representar um item:
+## O código utiliza a seguinte estrutura de dados para representar um item:
 
 ```c
 Copy code
@@ -14,7 +14,7 @@ typedef struct {
 Cada item possui um peso (inteiro) e um valor (inteiro).
 
 # Funções Principais
-##O código possui as seguintes funções principais:
+## O código possui as seguintes funções principais:
 
 **int maximo_valor(int valor1, int valor2)**: 
 Retorna o valor máximo entre dois valores inteiros.
@@ -35,16 +35,16 @@ Lê as informações sobre os itens e a capacidade da mochila de um arquivo. Rec
 Função principal do programa. Solicita ao usuário o nome do arquivo a ser lido, chama a função ler_arquivo com o nome do arquivo e retorna 0 no final.
 
 # Como Utilizar
-##Compile o código utilizando um compilador C compatível.
+## Compile o código utilizando um compilador C compatível.
 
-###Execute o programa gerado.
+### Execute o programa gerado.
 
--O programa solicitará o nome do arquivo a ser lido. Digite o nome do arquivo, incluindo a extensão .txt, e pressione Enter.
+- O programa solicitará o nome do arquivo a ser lido. Digite o nome do arquivo, incluindo a extensão .txt, e pressione Enter.
 
--O programa executará o algoritmo de programação dinâmica para resolver o problema da mochila com base nas informações contidas no arquivo.
+- O programa executará o algoritmo de programação dinâmica para resolver o problema da mochila com base nas informações contidas no arquivo.
 
--O programa imprimirá a combinação de itens com o maior valor possível e as informações sobre cada item selecionado.
+- O programa imprimirá a combinação de itens com o maior valor possível e as informações sobre cada item selecionado.
 
--O programa encerrará sua execução.
+- O programa encerrará sua execução.
 
 Considerações Finais
