@@ -48,4 +48,15 @@ Função principal do programa. Solicita ao usuário o nome do arquivo a ser lid
 - O programa encerrará sua execução.
 
  # Considerações Finais 
+ Certifique-se de fornecer um arquivo de entrada válido no formato especificado pelo programa. O arquivo deve conter as informações sobre os itens e a capacidade da mochila, seguindo a estrutura correta.
+
+Este código implementa uma **solução eficiente para o Problema da Mochila usando programação dinâmica**, o que garante uma abordagem **otimizada** para encontrar a combinação de itens de **maior valor**. No entanto, é importante observar que o **desempenho do algoritmo pode ser afetado pelo número de itens e pela capacidade da mochila**. Caso enfrente problemas de desempenho com entradas muito grandes, é possível explorar técnicas adicionais, como a otimização de memória ou o uso de algoritmos alternativos.
+
+Certifique-se de compreender o problema e o algoritmo implementado neste código antes de aplicá-lo a outros cenários ou fazer modificações. Você pode adaptar e estender este código de acordo com suas necessidades, como adicionar funcionalidades adicionais ou integrá-lo a outros sistemas.
+
+Este código foi fornecido como uma solução básica para o Problema da Mochila usando programação dinâmica. Se você tiver requisitos específicos ou necessidades mais complexas, pode ser necessário adaptar ou utilizar abordagens diferentes.
+
+Esperamos que este código seja útil para compreender e resolver o Problema da Mochila, bem como para estudar e explorar conceitos relacionados à programação dinâmica em algoritmos.
+
+Se você tiver alguma dúvida ou encontrar algum problema ao utilizar este código, sinta-se à vontade para entrar em contato para obter suporte adicional.
  
