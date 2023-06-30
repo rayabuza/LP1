@@ -4,7 +4,7 @@ Este código implementa uma solução para o **problema da mochila (knapsack pro
 # Estrutura de Dados
 O código utiliza a seguinte estrutura de dados para representar um item:
 
-c
+```c
 Copy code
 typedef struct {
   int peso;
