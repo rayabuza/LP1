@@ -47,4 +47,5 @@ Função principal do programa. Solicita ao usuário o nome do arquivo a ser lid
 
 - O programa encerrará sua execução.
 
- Considerações Finais
+ # Considerações Finais 
+ 
